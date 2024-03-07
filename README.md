@@ -1,5 +1,5 @@
 # Rotate-3D-Objects-Unity-Input-System
-Simple Trajectory Prediction 3D Unity - Without LineRenderer - Perspective and Orthographic
+Rotate 3D Objects using Mouse with Input System (+Touch) in Unity 2024 - Simple
 
 ✅ GameDevBox Youtube: https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ
 
