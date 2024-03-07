@@ -13,4 +13,4 @@ Exploring the world of game development with Unity tutorials, coding tips, and s
 game-related, sometimes not.
 --------------------------------------------------------------------
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sDFCHTIdSIw/0.jpg)](https://www.youtube.com/watch?v=sDFCHTIdSIw)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/CiZvMc8aI3U/0.jpg)](https://www.youtube.com/watch?v=CiZvMc8aI3U)
